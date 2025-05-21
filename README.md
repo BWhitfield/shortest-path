@@ -1,2 +1,3 @@
 # shortest-path
-dijkstra's algorithm implementation done on-site during a github interview. 
+
+dijkstra's algorithm implementation done on-site during an onsite github interview.
